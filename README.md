@@ -1,5 +1,5 @@
 
-##### I am interested in deep learning.
+##### I like deep learning.
 <!--
 **sahilsasane/sahilsasane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
